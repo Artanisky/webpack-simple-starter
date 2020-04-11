@@ -5,7 +5,7 @@
 ## Installation
 ```bash
 # Git Clone this repo, where 'my-project' is the name of your project
-git clone git@github.com:artanisky/webpack-simple-starter.git my-project
+git clone https://github.com/Artanisky/webpack-simple-starter.git my-project
 
 #cd into the repo's diectory
 cd my-project
